@@ -1,0 +1,23 @@
+{
+  "name": "503-maintainance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshzalavadiya/503-maintainance.git"
+  },
+  "keywords": [],
+  "author": "harshzalavadiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshzalavadiya/503-maintainance/issues"
+  },
+  "homepage": "https://github.com/harshzalavadiya/503-maintainance#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
